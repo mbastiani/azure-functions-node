@@ -1,0 +1,13 @@
+{
+  "name": "azure-function-node",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mongoose": "^5.9.13"
+  },
+  "devDependencies": {}
+}
